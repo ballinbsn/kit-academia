@@ -1,0 +1,10 @@
+GALERIAS CORRIGIDAS
+Abra index.html nesta pasta.
+
+Galeria principal: uma foto por vez, 8 imagens em cada versão (desktop/mobile). Deslize para os lados no celular; no computador, use a barra horizontal, o gesto horizontal do touchpad ou as setas após focar a galeria com Tab.
+Fotos dos comentários e galeria de avaliações: uma faixa horizontal, sem quebra em várias linhas.
+Não foram adicionados scripts, links navegáveis ou ações aos botões. Mantida identificação discreta no rodapé.
+Fotos das avaliações precisam de internet.
+Verificados estrutura, preservação das imagens e ausência de controles ativos. Visual não conferido no navegador.
+
+Botões atualizados em desktop e celular: Comprar com fundo azul #3483fa e texto branco; Adicionar ao carrinho com fundo cinza #ededed e texto azul. Permanecem desativados.
